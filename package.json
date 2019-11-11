@@ -11,6 +11,7 @@
     "@vue/eslint-config-standard": "^4.0.0",
     "core-js": "^3.3.2",
     "eslint-plugin-vue": "^6.0.0",
+    "firebase": "^7.3.0",
     "materialize-css": "^1.0.0-rc.2",
     "register-service-worker": "^1.6.2",
     "vue": "^2.6.10",
